@@ -17,4 +17,5 @@ To see more about them, check these links:
 
 ## Code
 
-If you want to see the implementations, check the [main.py file](/main.py) or
+If you want to see the implementations, check the [main.py file](/main.py) or \
+[![Run on Repl.it](https://replit.com/badge/github/Dpbm/pythonSortAlgorithms)](https://replit.com/new/github/Dpbm/pythonSortAlgorithms)
